@@ -59,6 +59,9 @@ portfolio-optimizer/
 
 
 
+## 📄 Documentation
+
+- [📘 Portfolio Strategy Report (PDF)](Portfolio Construction Report.pdf)
 
 
 
