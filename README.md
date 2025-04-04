@@ -18,7 +18,10 @@ This project demonstrates how to construct and backtest an optimized stock portf
 - ✅ **Clean Visualization** of Cumulative Returns (Year-wise)
 
 ---
-
+---
+## Note:
+project Documentation and File will be in Issues 
+---
 
 ## 📁 Project Structure
 
