@@ -4,10 +4,3 @@
 
 
 
-portfolio-optimization/
-│
-├── README.md
-├── portfolio_optimization.py   # Your main script
-├── requirements.txt            # Required libraries
-└── outputs/
-    └── cumulative_returns_plot.png  # Optional saved plot
