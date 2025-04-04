@@ -28,6 +28,14 @@ This project demonstrates how to construct and backtest an optimized stock portf
 - `yfinance`
 
 ---
+## Project Structures
+portfolio-optimizer/
+│
+├── portfolio_optimization.py       # Main Python script
+├── requirements.txt                # Required Python libraries
+├── outputs/
+│   └── cumulative_returns_plot.png # Visualization of portfolio performance
+└── README.md                       # Project overview and documentation
 
 ## 📈 Strategy Overview
 
