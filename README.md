@@ -38,7 +38,7 @@ portfolio-optimizer/
 ├── outputs/
 │   └── cumulative_returns_plot.png # Visualization of portfolio performance
 └── README.md                       # Project overview and documentation
-
+```
 
 ## 📈 Strategy Overview
 
