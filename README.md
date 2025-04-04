@@ -61,7 +61,7 @@ portfolio-optimizer/
 
 ## 📄 Documentation
 
-- [📘 Portfolio Strategy Report (PDF)](docs/Portfolio Construction Report.pdf)
+- [📘 Portfolio Strategy Report (PDF)](docs/Portfolio_Construction_Report.pdf)
 
 
 
