@@ -41,9 +41,126 @@ This project demonstrates how to construct and backtest an optimized stock portf
 
 ## 📊 Output Example
 
-![Cumulative Returns Plot](outputs/cumulative_returns_plot.png)
+![Cumulative Returns Plot](# 📊 Portfolio Optimization & Backtesting with Python
+
+This project demonstrates how to construct and backtest an optimized stock portfolio using historical data from Yahoo Finance. The strategy selects the top-performing stocks by momentum and allocates capital using **Markowitz Mean-Variance Optimization** to maximize the Sharpe Ratio.
 
 ---
+
+## 🚀 Features
+
+- ✅ **Quarterly Rebalancing** with top 5 momentum stocks
+- ✅ **Markowitz Optimization** (Max Sharpe Ratio Portfolio)
+- ✅ **Realistic Trading Costs** (0.1% per transaction)
+- ✅ **Performance Metrics**: Total Return, Sharpe Ratio, Max Drawdown
+- ✅ **Clean Visualization** of Cumulative Returns (Year-wise)
+
+---
+
+## 🛠️ Tools & Libraries
+
+- `Python`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `yfinance`
+
+---
+
+## 📈 Strategy Overview
+
+1. **Data Collection**: Pulls 2 years of historical data for 10 major stocks.
+2. **Stock Selection**: Ranks stocks based on 6-month momentum.
+3. **Optimization**: Calculates optimal weights using Markowitz model.
+4. **Backtesting**: Rebalances portfolio quarterly and tracks performance.
+5. **Evaluation**: Computes Sharpe ratio, total return, and max drawdown.
+
+---
+
+## 📊 Output Example
+
+![Cumulative Returns Plot](# 📊 Portfolio Optimization & Backtesting with Python
+
+This project demonstrates how to construct and backtest an optimized stock portfolio using historical data from Yahoo Finance. The strategy selects the top-performing stocks by momentum and allocates capital using **Markowitz Mean-Variance Optimization** to maximize the Sharpe Ratio.
+
+---
+
+## 🚀 Features
+
+- ✅ **Quarterly Rebalancing** with top 5 momentum stocks
+- ✅ **Markowitz Optimization** (Max Sharpe Ratio Portfolio)
+- ✅ **Realistic Trading Costs** (0.1% per transaction)
+- ✅ **Performance Metrics**: Total Return, Sharpe Ratio, Max Drawdown
+- ✅ **Clean Visualization** of Cumulative Returns (Year-wise)
+
+---
+
+## 🛠️ Tools & Libraries
+
+- `Python`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `yfinance`
+
+---
+
+## 📈 Strategy Overview
+
+1. **Data Collection**: Pulls 2 years of historical data for 10 major stocks.
+2. **Stock Selection**: Ranks stocks based on 6-month momentum.
+3. **Optimization**: Calculates optimal weights using Markowitz model.
+4. **Backtesting**: Rebalances portfolio quarterly and tracks performance.
+5. **Evaluation**: Computes Sharpe ratio, total return, and max drawdown.
+
+---
+
+## 📊 Output Example
+
+![Cumulative Returns Plot](# 📊 Portfolio Optimization & Backtesting with Python
+
+This project demonstrates how to construct and backtest an optimized stock portfolio using historical data from Yahoo Finance. The strategy selects the top-performing stocks by momentum and allocates capital using **Markowitz Mean-Variance Optimization** to maximize the Sharpe Ratio.
+
+---
+
+## 🚀 Features
+
+- ✅ **Quarterly Rebalancing** with top 5 momentum stocks
+- ✅ **Markowitz Optimization** (Max Sharpe Ratio Portfolio)
+- ✅ **Realistic Trading Costs** (0.1% per transaction)
+- ✅ **Performance Metrics**: Total Return, Sharpe Ratio, Max Drawdown
+- ✅ **Clean Visualization** of Cumulative Returns (Year-wise)
+
+---
+
+## 🛠️ Tools & Libraries
+
+- `Python`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `yfinance`
+
+---
+
+## 📈 Strategy Overview
+
+1. **Data Collection**: Pulls 2 years of historical data for 10 major stocks.
+2. **Stock Selection**: Ranks stocks based on 6-month momentum.
+3. **Optimization**: Calculates optimal weights using Markowitz model.
+4. **Backtesting**: Rebalances portfolio quarterly and tracks performance.
+5. **Evaluation**: Computes Sharpe ratio, total return, and max drawdown.
+
+---
+
+## 📊 Output Example
+
+![Cumulative Returns Plot](![Screenshot 2025-04-04 061132](https://github.com/user-attachments/assets/8713f443-2f8a-42ce-908b-ab4974fd3338)
+.png)
+
+---
+
+
 
 ## 📂 How to Run
 
